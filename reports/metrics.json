@@ -1,0 +1,14 @@
+{
+  "totalClaims": 2000,
+  "knownFraudClaims": 200,
+  "predictedFraudClaims": 244,
+  "truePositives": 199,
+  "falsePositives": 45,
+  "trueNegatives": 1755,
+  "falseNegatives": 1,
+  "precision": 0.8156,
+  "recall": 0.995,
+  "falsePositiveRate": 0.025,
+  "threshold": 6,
+  "targetsMet": true
+}
